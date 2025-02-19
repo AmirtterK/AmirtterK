@@ -1,15 +1,10 @@
 ## Hi there 👋, I'm Amir 
 
-<p align="center" width="100%">
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirtterK&layout=compact)
 
-</p>
-<p align="center" width="100%">
-    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> 
-</p>
+
 
 - 🔭 I’m currently working on PHP, Laravel  
 - 🌱 I’m currently learning web development  
