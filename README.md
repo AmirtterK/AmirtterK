@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Amir 
 
-<p align="center">
+<p align="center" width="100%">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
   <br>
