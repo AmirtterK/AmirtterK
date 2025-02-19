@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning web dev 
 - 💬 Ask me about flutter, php, backend development
 - 📫 How to reach me: amirhattab2018@gmail.com
-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" height="30" />
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c&theme=dark)](https://skillicons.dev)
