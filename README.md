@@ -1,7 +1,7 @@
 ## Hi there 👋, i'm Amir 
-
+<center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirtterK&layout=compact)
 - 🔭 I’m currently working on php, lareval
 - 🌱 I’m currently learning web dev 
@@ -13,3 +13,4 @@
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c&theme=dark)](https://skillicons.dev)
+</center>
