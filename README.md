@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Amir 
 <div align="center">
+## Hi there 👋, I'm Amir 
   <img src="https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true" height="150"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirtterK&layout=compact" height="150"></img>
 
