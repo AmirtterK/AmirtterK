@@ -6,7 +6,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,php,sql,java,arduino,sqlite,c,git,vscode" height="40" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,arduino,sqlite,c,git,vscode" height="40" />
   </a>
 </p>
 
