@@ -1,6 +1,6 @@
 ## Hi there 👋, i'm Amir 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true&show=reviews,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
 
 - 🔭 I’m currently working on php, lareval
 - 🌱 I’m currently learning web dev 
