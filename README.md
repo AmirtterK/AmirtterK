@@ -9,6 +9,6 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,arduino,sqlite,c,git,vscode" height="40" />
   </a>
 </p>
-  reach me: amirhattab2018@gmail.com  
+  reach me: <a href="amirhattab2018@gmail.com "> amirhattab2018@gmail.com </a>  
 
 </div>
