@@ -1,5 +1,5 @@
 ## Hi there 👋, i'm Amir 
-<center>
+<p align=center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
 <br>
@@ -14,4 +14,4 @@
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c&theme=dark)](https://skillicons.dev)
-</center>
+</p>
