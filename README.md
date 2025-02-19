@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning web dev 
 - 💬 Ask me about flutter, php, backend development
 - 📫 How to reach me: amirhattab2018@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,c&theme=light)](https://skillicons.dev)
