@@ -8,7 +8,7 @@
 - 📫 How to reach me: amirhattab2018@gmail.com
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" height="30" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,php,java,c,mysqli" height="40" />
   </a>
 </p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c&theme=dark)](https://skillicons.dev)
