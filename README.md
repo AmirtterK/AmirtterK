@@ -3,6 +3,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirtterK&layout=compact)
+</div>
 
 
 
@@ -16,4 +17,3 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,php,java,arduino,sqlite,c,git,vscode" height="40" />
   </a>
 </p>
-</div>
