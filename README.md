@@ -1,6 +1,7 @@
 ## Hi there 👋, i'm Amir 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirtterK&theme=midnight-purple&show_icons=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirtterK&layout=compact)
 - 🔭 I’m currently working on php, lareval
 - 🌱 I’m currently learning web dev 
