@@ -7,7 +7,7 @@ i'm a novice mobile application  Developer
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css,php,java,arduino,sqlite,c,git,github,vscode" height="40" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,html,css,php,java,arduino,sqlite,sql,c,git,github,vscode" height="40" />
   </a>
 </p>
 
