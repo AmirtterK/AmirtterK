@@ -8,7 +8,10 @@ on:
     - cron: "20 0 * * *"
   workflow_dispatch:
   push:
-    paths: [.github/workflows/koi.yml]
+    branches:
+      - master
+    paths-ignore:
+      - 'koi/**'
 
 permissions:
   contents: write
