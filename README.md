@@ -1,11 +1,11 @@
 <a href="https://github.com/AmirtterK">
   <img src="koi/koi.gif" align="right" width="40%" alt="Amir's Koi Pond">
-</a>
+</a> 
 
 # I'm Amir
 ### Software Developer
 
-I build and ship AI-powered products.
+I build and ship AI-powered products. 
 
 What limits creation, if not the boundaries of vision itself?
 
