@@ -1,9 +1,8 @@
 <a href="https://github.com/AmirtterK">
   <img src="koi/koi.gif" align="right" width="40%" alt="Amir's Koi Pond">
-</a> 
-
-# I'm Amir
-### Software Developer
+</a>
+<h1>I'm Amir</h1>
+<h3>Software Developer</h3>
 
 I build and ship AI-powered products. 
 
