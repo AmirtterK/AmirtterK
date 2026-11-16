@@ -11,10 +11,12 @@ What limits creation, if not the boundaries of vision itself?
 
 ## Where to find me
 
-- [Portfolio](https://amirhattab.vercel.app)
-- [GitHub](https://github.com/AmirtterK)
-- [LinkedIn](https://www.linkedin.com/in/amir-hattab)
-- [Email](mailto:amirhattab2018@gmail.com)
+<p>
+  <a href="https://amirhattab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amirhattab.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/AmirtterK"><img src="https://img.shields.io/badge/GitHub-AmirtterK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/amir-hattab"><img src="https://img.shields.io/badge/LinkedIn-amir--hattab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amirhattab2018@gmail.com"><img src="https://img.shields.io/badge/Email-amirhattab2018@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <br clear="all">
 
