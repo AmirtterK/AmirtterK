@@ -1,5 +1,5 @@
 <a href="https://github.com/AmirtterK">
-  <img src="koi/koi.gif" align="right" width="50%" alt="Amir's Koi Pond">
+  <img src="koi/koi.gif" align="right" width="30%" alt="Amir's Koi Pond">
 </a>
 <h1>I'm Amir</h1>
 <h3>Software Developer</h3>
