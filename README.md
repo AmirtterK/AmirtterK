@@ -11,7 +11,7 @@ What limits creation, if not the boundaries of vision itself?
 
 ## Where to find me
 
-<p>
+<p align="center">
   <a href="https://amirhattab.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amirhattab.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/AmirtterK"><img src="https://img.shields.io/badge/GitHub-AmirtterK-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/amir-hattab"><img src="https://img.shields.io/badge/LinkedIn-amir--hattab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
